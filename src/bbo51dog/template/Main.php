@@ -1,6 +1,6 @@
 <?php
 
-namespace bboyyu51\template;
+namespace bbo51dog\template;
 
 use pocketmine\plugin\PluginBase;
 
